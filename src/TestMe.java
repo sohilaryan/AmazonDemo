@@ -5,7 +5,7 @@ public class TestMe {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello world");
-
+		System.out.println("Hello from local");
 	}
 
 }
