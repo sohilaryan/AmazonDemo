@@ -6,6 +6,8 @@ public class TestMe {
 		
 		System.out.println("Hello world");
 		System.out.println("Hello class from me arif");
+		System.out.println("Hello from local");
+
 	}
 
 }
